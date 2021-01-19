@@ -1,4 +1,5 @@
 Git is a version control system.
 Git is a version control system.
 Git is free.
---readmeV2
+Git is under the GPL.
+--readmeV3
