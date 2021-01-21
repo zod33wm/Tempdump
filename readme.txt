@@ -1,4 +1,9 @@
 Git is a version control system.
 Git is under the GPL.
-New branch ---- master 
---readmeV10
+<<<<<<< HEAD
+New branch ---- master_feature1 
+--readmeV11
+=======
+New branch ---- master_feature1 
+--readmeV11
+>>>>>>> feature1
